@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Look at My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "I am Streaming Component Reuse!",
+      "description": "This stream is about refactoring!!!",
+      "id": 2
+    }
+  ]
+}

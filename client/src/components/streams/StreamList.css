@@ -1,0 +1,25 @@
+.item {
+  margin: 40px;
+  display: flex !important;
+  flex-direction: row;
+}
+.content {
+  padding: 8px;
+  margin-left: 10px;
+}
+
+.avatar {
+  width: 64px;
+  height: 64px;
+}
+
+.maintitle {
+  position: relative;
+  margin-left: 45%;
+  color: lavenderblush;
+}
+
+.header {
+  font-size: 15px;
+  text-shadow: 1px 1px 2px #000000;
+}
